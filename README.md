@@ -1,5 +1,5 @@
 <b>Student's Database Management System</b><br>
-It’s a Spring-Based software application which is capable of storing and managing student data along with application page where users can login, add, update and delete, the record.
+It’s a Spring-Boot Based software application which is capable of storing and managing student data along with application page where users can login, add, update and delete, the record.
 <br><br>
 <b>Tools used:</b><br>
 o	Spring- Boot framework for designing only backend logic<br>
